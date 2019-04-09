@@ -56,7 +56,11 @@ module.exports = function (ctx) {
         'Loading'
       ],
       config: {
-        loading: { /* Loading defaults */ }
+        loading: { /* Loading defaults */ },
+        cordova: {
+          iosStatusBarPadding: true, // add the dynamic top padding on iOS mobile devices
+          backButtonExit: true // Quasar handles app exit on mobile phone back button
+        }
       }
       // iconSet: 'ionicons-v4'
       // lang: 'de' // Quasar language

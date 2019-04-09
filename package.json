@@ -1,9 +1,9 @@
 {
-  "name": "vue-quasar-flowers",
-  "version": "0.0.1",
-  "description": "a simple application for small business - flowers shop",
-  "productName": "Flowers App",
-  "cordovaId": "md.vartan.mobileapp",
+  "name": "app-constructor",
+  "version": "0.0.2",
+  "description": "a simple application for small business - construct it yourself",
+  "productName": "Constructor App",
+  "cordovaId": "md.vartan.mobileconstructorapp",
   "author": "Marin Vartan <marin.vartan@gmail.com>",
   "private": true,
   "scripts": {
